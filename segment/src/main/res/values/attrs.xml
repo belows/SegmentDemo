@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SegmentView">
+        <attr name="sv_line_color" format="color" />
+        <attr name="sv_line_width" format="dimension" />
+        <attr name="sv_selected_bg_color" format="color" />
+        <attr name="sv_bg_color" format="color"/>
+        <attr name="sv_text_size" format="dimension"/>
+        <attr name="sv_text_color" format="color"/>
+        <attr name="sv_selected_text_color" format="color"/>
+        <attr name="sv_bg_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
